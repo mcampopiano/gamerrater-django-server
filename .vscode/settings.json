@@ -6,5 +6,6 @@
             "name": "gamerrater",
             "database": "db.sqlite3"
         }
-    ]
+    ],
+    "python.linting.pylintEnabled": true
 }
