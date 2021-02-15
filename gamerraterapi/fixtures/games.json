@@ -1,0 +1,41 @@
+[
+    {
+        "model": "gamerraterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Star Wars Epic Duels",
+            "description": "Star Wars meets chess meets Magic the Gathering",
+            "yearReleased": "2003",
+            "designer": "Mattell",
+            "numberOfPlayers": 6,
+            "estDuration": "1 hour",
+            "ageRecommendation": 10
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Scopa",
+            "description": "Italian card game",
+            "yearReleased": "1800",
+            "designer": "Neopolitans",
+            "numberOfPlayers": 4,
+            "estDuration": "15 min",
+            "ageRecommendation": 10
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "five crowns",
+            "description": "mix of cards and math",
+            "yearReleased": "2000",
+            "designer": "Set Enterprises",
+            "numberOfPlayers": 8,
+            "estDuration": "1 hour",
+            "ageRecommendation": 12
+        }
+    }
+]
