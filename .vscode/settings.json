@@ -7,5 +7,6 @@
             "database": "db.sqlite3"
         }
     ],
-    "python.linting.pylintEnabled": true
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/mcamp/.local/share/virtualenvs/gamerrater-5yosg-U8/bin/python"
 }
